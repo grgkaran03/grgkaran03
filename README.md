@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karan garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan garg" height="30" width="40" /></a>
-<a href="https://kaggle.com/g.karan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="g.karan07" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kgbolt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kgbolt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karan-garg-a76504229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan garg" height="30" width="40" /></a>
+                 <a href="https://kaggle.com/gkaran07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="g.karan07" height="30" width="40" /></a>
+                   <a href="https://codeforces.com/profile/kgbolt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kgbolt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
