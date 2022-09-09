@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DL, ML, Open source**
 
-- 💬 Ask me about **Python, Cpp, ML and Anything and Everything You find Interesting**
+- 💬 Ask me about **Python, Cpp, ML and Anything and Everything that Interests You!**
 
 - 📫 How to reach me:  **grgkaran03@gmail.com or g.karan@iitg.ac.in**
 
