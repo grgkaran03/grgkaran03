@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **DL, ML, Open source**
 
-- 💬 Ask me about **Python, Cpp, ML and Anything and Everything that Interests You!**
+- 💬 Ask me about **Cpp, ML and Anything and Everything that Interests You!**
 
 - 📫 How to reach me:  **grgkaran03@gmail.com or g.karan@iitg.ac.in**
 
-- ⚡ Fun fact:  **I think I am Funny.**
+- ⚡ Fun fact:  **I love to dance and I really wanna learn guitar.**
 
 
 
