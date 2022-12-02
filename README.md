@@ -30,7 +30,7 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314x5uwyecwlirdgz6srgoe4faya&cover_image=true&theme=novatorem&bar_color=4e74b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+<!-- 
 ### Programmer's Quote of the Day
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
- 
+  -->
