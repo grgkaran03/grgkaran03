@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Garg</h1>
-<h3 align="center"> Junior at IIT Guwahati Mathematics and Computing. </h3>
+<h3 align="center"> Senior at IIT Guwahati Mathematics and Computing. </h3>
 
 - 🔭 I’m currently working on **Machine Learning and Deep learning Project**
 
