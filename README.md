@@ -9,7 +9,7 @@
 
 - 📫 How to reach me:  **grgkaran03@gmail.com or g.karan@iitg.ac.in**
 
-- ⚡ Fun fact:  **I love to dance and I really wanna learn guitar.**
+- ⚡ Fun fact:  **I love to dance.*
 
 
 
